@@ -12,6 +12,15 @@ You can find more related research [here](http://mi.eng.cam.ac.uk/~ib255/).
 **Semantic localisation in an artificial city (SceneCity) with missing buildings:**
  <img src="http://mi.eng.cam.ac.uk/~ib255/files/external/semantic_localisation_scenecity_small.gif" data-canonical-src="http://mi.eng.cam.ac.uk/~ib255/files/external/semantic_localisation_scenecity_small.gif" width="100%" />
 
+## Datasets
+
+### CamVid-360 dataset
+
+[email to obtain]
+
+### SceneCity dataset
+
+Dataset can be downloaded [here](http::\\).
 
 ## Getting Started
 
