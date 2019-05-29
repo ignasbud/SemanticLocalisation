@@ -20,7 +20,13 @@ You can find more related research [here](http://mi.eng.cam.ac.uk/~ib255/).
 
 ### SceneCity dataset
 
-Dataset can be downloaded [here](http::\\).
+The whole artificial city dataset can be downloaded [here](https://drive.google.com/open?id=1Gke_soseXkKmTuGH_QPk_drX2n84cApT).
+
+- SceneCity Small - Training data
+- SceneCity Small - Test data
+- SceneCity Small Missing Buildings - Test data
+- SceneCity Large - Training data
+- SceneCity Large - Test data
 
 ## Getting Started
 
