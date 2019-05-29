@@ -6,11 +6,11 @@ This project provides the implementation of label propagation of Budvytis et. al
 
 You can find more related research [here](http://mi.eng.cam.ac.uk/~ib255/).
 
-**Propagation of class labels in CityScapes dataset:**
- <img src="http://mi.eng.cam.ac.uk/~ib255/files/external/cityscapes_class_propagation_15_20.gif" data-canonical-src="http://mi.eng.cam.ac.uk/~ib255/files/external/cityscapes_class_propagation_15_20.gif" width="100%" />
+**Semantic localisation in CamVid-360 dataset:**
+ <img src="http://mi.eng.cam.ac.uk/~ib255/files/external/semantic_localisation_camvid360.gif" data-canonical-src="http://mi.eng.cam.ac.uk/~ib255/files/external/semantic_localisation_camvid360.gif" width="100%" />
  
-**Propagation of object instance labels in CityScapes dataset:**
- <img src="http://mi.eng.cam.ac.uk/~ib255/files/external/cityscapes_instance_propagation.gif" data-canonical-src="http://mi.eng.cam.ac.uk/~ib255/files/external/cityscapes_instance_propagation.gif" width="100%" />
+**Semantic localisation in an artificial city (SceneCity) with missing buildings:**
+ <img src="http://mi.eng.cam.ac.uk/~ib255/files/external/semantic_localisation_scenecity_small.gif" data-canonical-src="http://mi.eng.cam.ac.uk/~ib255/files/external/semantic_localisation_scenecity_small.gif" width="100%" />
 
 
 ## Getting Started
