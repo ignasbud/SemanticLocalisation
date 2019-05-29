@@ -16,17 +16,17 @@ You can find more related research [here](http://mi.eng.cam.ac.uk/~ib255/).
 
 ### CamVid-360 dataset
 
-[email to obtain]
+[Available up on e-mail.]
 
 ### SceneCity dataset
 
 The whole artificial city dataset can be downloaded [here](https://drive.google.com/open?id=1Gke_soseXkKmTuGH_QPk_drX2n84cApT).
 
-- SceneCity Small - Training data
-- SceneCity Small - Test data
-- SceneCity Small Missing Buildings - Test data
-- SceneCity Large - Training data
-- SceneCity Large - Test data
+- [SceneCity Small - Training data](https://drive.google.com/open?id=1sK3uftByg9Ct1HXkV9DiGAXZFqa-RE9P)
+- [SceneCity Small - Test data](https://drive.google.com/open?id=1xC7RU9Ll9uojBE_-kCK9-DE3LtUUHXAR)
+- [SceneCity Small Missing Buildings - Test data](https://drive.google.com/open?id=1I2u_fVAjNaq4G8p_pLCseHCVMq3d5bdN)
+- [SceneCity Large - Training data](https://drive.google.com/open?id=1g2WEzDbcnIdcflmNAgF7vJOo3ZzS3dcv)
+- [SceneCity Large - Test data](https://drive.google.com/open?id=1WDQDrfLKOgn-WC9Ot4lVDxRBmC-6NUkE)
 
 ## Getting Started
 
