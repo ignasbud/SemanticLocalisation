@@ -20,6 +20,9 @@ You can find more related research [here](http://mi.eng.cam.ac.uk/~ib255/).
 
 ### SceneCity dataset
 
+### Blender files
+
+#### Images
 The whole artificial city dataset can be downloaded [here](https://drive.google.com/open?id=1Gke_soseXkKmTuGH_QPk_drX2n84cApT).
 
 - [SceneCity Small - Training data](https://drive.google.com/open?id=1sK3uftByg9Ct1HXkV9DiGAXZFqa-RE9P)
