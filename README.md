@@ -39,7 +39,7 @@ The whole artificial city dataset can be downloaded [here](https://drive.google.
 
 #### Camera Trajectories
 
-- **SceneCity Small** - [Camera trajectories for training data provided in Blender format](./data/trajectories/SceneCity_Small_train_camera_info_2019_Jun_12.txt). Note that the original camera trajectory of [2] was used for test sequence. It was sampled at every 10 frames resulting in 300 frames out of 3000.
+- **SceneCity Small** - [Camera trajectories for training data](./data/trajectories/SceneCity_Small_train_camera_info_2019_Jun_12.txt) used in Blender. Note that the original camera trajectory of [2] was used for test sequence. It was sampled at every 10 frames resulting in 300 frames out of 3000.
 - **SceneCity Small - Missing Buildings**
 - **SceneCity Large**
 
