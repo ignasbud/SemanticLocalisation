@@ -33,13 +33,15 @@ The whole artificial city dataset can be downloaded [here](https://drive.google.
 
 #### Blender files
 
-- **SceneCity Small** - The blender file for SceneCity Small map can be downloaded from [here](http://rpg.ifi.uzh.ch/fov.html). You can find more details about it in the work of Zhang et al [2]. Note that the original camera trajectory sampled at every 10 frames (300 out of 3000) was used for test sequence.
+- **SceneCity Small** - The blender file for SceneCity Small map can be downloaded from [here](http://rpg.ifi.uzh.ch/fov.html). You can find more details about it in the work of Zhang et al [2].
 - **SceneCity Small - Missing Buildings** - To be provided.
 - **SceneCity Large** - To be provided.
 
 #### Camera Trajectories
 
-To be provided.
+- **SceneCity Small** - [Camera trajectories for training data provided in Blender format](./data/trajectories/SceneCity_Small_train_camera_info_2019_Jun_12.txt). Note that the original camera trajectory of [2] was used for test sequence. It was sampled at every 10 frames resulting in 300 frames out of 3000.
+- **SceneCity Small - Missing Buildings**
+- **SceneCity Large**
 
 ## Getting Started
 
