@@ -20,7 +20,6 @@ You can find more related research [here](http://mi.eng.cam.ac.uk/~ib255/).
 
 ### SceneCity dataset
 
-### Blender files
 
 #### Images
 The whole artificial city dataset can be downloaded [here](https://drive.google.com/open?id=1Gke_soseXkKmTuGH_QPk_drX2n84cApT).
@@ -30,6 +29,17 @@ The whole artificial city dataset can be downloaded [here](https://drive.google.
 - [SceneCity Small Missing Buildings - Test data](https://drive.google.com/open?id=1I2u_fVAjNaq4G8p_pLCseHCVMq3d5bdN)
 - [SceneCity Large - Training data](https://drive.google.com/open?id=1g2WEzDbcnIdcflmNAgF7vJOo3ZzS3dcv)
 - [SceneCity Large - Test data](https://drive.google.com/open?id=1WDQDrfLKOgn-WC9Ot4lVDxRBmC-6NUkE)
+
+
+#### Blender files
+
+-[SceneCity Small] The blender file for SceneCity Small map can be downloaded from [here](http://rpg.ifi.uzh.ch/fov.html). You can find more details about it in the work of Zhang et al [2]. Note that the original camera trajectory sampled at every 10 frames (300 out of 3000) was used for test sequence.
+-[SceneCity Small - Missing Buildings] - To be provided.
+-[SceneCity Large] - To be provided.
+
+#### Camera Trajectories
+
+To be provided.
 
 ## Getting Started
 
@@ -69,7 +79,7 @@ If you use this code please cite the following publications:
                title = {Semantic localisation via globally unique instance segmentation},
                booktitle = {British Machine Vision Conference (BMVC), Newcastle},
                month = {September},
-               year = {2018}
+               year = {2018}                         
 }
 
 ```
@@ -78,3 +88,6 @@ If you use this code please cite the following publications:
 
 [1] Budvytis, I., Sauer, P., Cipolla, R., 
 **Semantic localisation via globally unique instance segmentation.** *In Proc. British Machine Vision Conference (BMVC), Newcastle, September 2018* 
+
+[2] Zhang, Z., Rebecq, H., Forster, C., Scaramuzza, D.,
+**Benefit of large field-of-view cameras for visual odometry.** *In Proc. IEEE International Conference on Robotics and Automation (ICRA), Stockholm, May 2016* 
